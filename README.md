@@ -6,6 +6,7 @@ Se trata de um projeto FullStack onde foi desenvolvido um CRUD, estou absorvendo
 ## Tecnologias usadas
 
 - Node.js
+- Express
 - Prisma
 - MongoDB
 
